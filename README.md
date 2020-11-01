@@ -1,5 +1,5 @@
 # Certifications
-A repository of all my key online certifications.
+A repository of all online certifications.
 
 ## List of graded certificates:
 ### 1) Neural Networks and Deep Learning by Coursera : Secured 95.10% grade
