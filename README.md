@@ -7,3 +7,4 @@ A repository of all my key online certifications.
 ### 3) Structuring Machine Learning Projects by Coursera : Secured 91.67% grade
 ### 4) Machine Learning by Stanford University : Secured 90% grade
 ### 5) MongoDB 101 by MongoDB University : Secured 98% grade
+### 6) FUNDAMENTALS OF ACCELERATED COMPUTING WITH CUDA C/C++ by NVIDIA DEEP LEARNING INSTITUTE
