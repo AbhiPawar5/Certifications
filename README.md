@@ -8,3 +8,4 @@ A repository of all online certifications.
 ### 4) Machine Learning by Stanford University : Secured 90% grade
 ### 5) MongoDB 101 by MongoDB University : Secured 98% grade
 ### 6) FUNDAMENTALS OF ACCELERATED COMPUTING WITH CUDA C/C++ by NVIDIA DEEP LEARNING INSTITUTE
+### 7) ML Observability Fundamentals Certification by Arize
